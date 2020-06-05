@@ -25,10 +25,12 @@
     width: 150px;
     height: 35px;
     margin: 0 0 10px 0;
+    background-color: antiquewhite;
 }
 
 .voting__btn:hover {
     cursor: pointer;
+    background-color: aliceblue;
 }
 
 .hide {
